@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Er.Yogesh Dahake
+ * @author batty
  */
 public class IdShip {
 
